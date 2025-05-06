@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Metro App</string>
+    <string name="welcome_message">Hey Vaibhav, Welcome to</string>
+    <string name="station_name">Indiranagar Metro Station</string>
+    <string name="train_1_number">405</string>
+    <string name="train_1_destination">Mori Gate Terminal</string>
+    <string name="train_1_status">Arrived</string>
+    <string name="train_2_number">402</string>
+    <string name="train_2_destination">Meenaa Bazar</string>
+    <string name="train_2_status">In 5 mins</string>
+    <string name="navigate">Navigate</string>
+    <string name="buy_tickets">Buy Tickets</string>
+</resources>
